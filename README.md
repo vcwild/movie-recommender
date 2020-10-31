@@ -1,2 +1,2 @@
 # movie-recommender
-Implementing a naive kNN classifier from scratch to recommend movies from the MovieLens official database..
+Implementing a naive kNN regressor from scratch to recommend movies from the MovieLens official database..
